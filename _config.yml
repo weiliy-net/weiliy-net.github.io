@@ -11,7 +11,7 @@ email: yi@weiliy.net
 description: > # this means to ignore newlines until "baseurl:"
   我想要和这个世界有些接触…… 所以这里是其中一个起点。目前职业系统管理员，正进修前端，养喵公主一只。
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://weiliy.githug.io" # the base hostname & protocol for your site
+url: "http://weiliy.net" # the base hostname & protocol for your site
 twitter_username: weelyai
 github_username:  weiliy
 
