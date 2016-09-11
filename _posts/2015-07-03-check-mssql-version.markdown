@@ -23,7 +23,7 @@ tags:
 
 ##### 结果示例
 
-![result of mssql version]({{ site.url }}/assets/8E6912D0-2F3C-47B3-A393-F55618E1308C.png)
+![result of mssql version](https://res.cloudinary.com/lpmqxk4nr/image/upload/v1473576497/8E6912D0-2F3C-47B3-A393-F55618E1308C_mqaqdx.png)
 
 ###### 参考
 	
